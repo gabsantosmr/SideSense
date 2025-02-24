@@ -23,9 +23,9 @@
 
 ## Tecnologias Utilizadas
 
-**Linguagem**: C  
-**Placa**: Raspberry Pi Pico  
-**Bibliotecas**:  
+* **Linguagem**: C  
+* **Placa**: Raspberry Pi Pico  
+* **Bibliotecas**:  
   - `pico/stdlib.h` → Biblioteca padrão para GPIO e UART  
   - `ssd1306.h` → Controle do display OLED  
   - `stdlib.h`, `stdio.h` → Funções padrões da linguagem C  
