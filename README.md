@@ -60,6 +60,6 @@ O projeto utiliza os seguintes pinos na Raspberry Pi Pico:
 ---
 
 ## Organização do Código
-main.c → Código principal do projeto.
-ssd1306.h e ssd1306.c → Biblioteca para controle do display OLED.
-CMakeLists.txt → Arquivo de configuração para compilação no Raspberry Pi Pico.
+- main.c → Código principal do projeto.
+- ssd1306.h e ssd1306.c → Biblioteca para controle do display OLED.
+- CMakeLists.txt → Arquivo de configuração para compilação no Raspberry Pi Pico.
