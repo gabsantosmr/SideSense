@@ -19,7 +19,6 @@
 **Botões Físicos**:  
 - Dois botões são utilizados para interação: um para a esquerda e outro para a direita.  
 
----
 
 ## Tecnologias Utilizadas
 
@@ -30,7 +29,6 @@
 - `ssd1306.h` → Controle do display OLED  
 - `stdlib.h`, `stdio.h` → Funções padrões da linguagem C  
 
----
 
 ## Conexões do Hardware
 
@@ -45,7 +43,6 @@ O projeto utiliza os seguintes pinos na Raspberry Pi Pico:
 | I2C SDA       | GPIO 14     |
 | I2C SCL       | GPIO 15     |
 
----
 
 ## Como Executar o Projeto
 
@@ -57,9 +54,15 @@ O projeto utiliza os seguintes pinos na Raspberry Pi Pico:
 4. Conecte os botões e o display conforme os pinos definidos no código.
 5. Reinicie a placa e interaja com o sistema.
 
----
 
 ## Organização do Código
 - main.c → Código principal do projeto.
 - ssd1306.h e ssd1306.c → Biblioteca para controle do display OLED.
 - CMakeLists.txt → Arquivo de configuração para compilação no Raspberry Pi Pico.
+
+
+## Contribuições
+Sinta-se à vontade para abrir issues e enviar pull requests!
+
+Autor: Gabriel dos Santos Mota Rodrigues
+(https://www.linkedin.com/in/gabrielsmrodrigues/)
