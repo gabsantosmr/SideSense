@@ -44,17 +44,6 @@ O projeto utiliza os seguintes pinos na Raspberry Pi Pico:
 | I2C SCL       | GPIO 15     |
 
 
-## Como Executar o Projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/gabsantosmr/SideSense.git
-2. Configure o ambiente de desenvolvimento para Raspberry Pi Pico.
-3. Compile e faça o upload do código para a placa.
-4. Conecte os botões e o display conforme os pinos definidos no código.
-5. Reinicie a placa e interaja com o sistema.
-
-
 ## Organização do Código
 - main.c → Código principal do projeto.
 - ssd1306.h e ssd1306.c → Biblioteca para controle do display OLED.
