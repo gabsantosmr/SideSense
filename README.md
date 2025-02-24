@@ -23,9 +23,9 @@
 
 ## Tecnologias Utilizadas
 
-🔹 **Linguagem**: C  
-🔹 **Placa**: Raspberry Pi Pico  
-🔹 **Bibliotecas**:  
+**Linguagem**: C  
+**Placa**: Raspberry Pi Pico  
+**Bibliotecas**:  
   - `pico/stdlib.h` → Biblioteca padrão para GPIO e UART  
   - `ssd1306.h` → Controle do display OLED  
   - `stdlib.h`, `stdio.h` → Funções padrões da linguagem C  
@@ -51,7 +51,7 @@ O projeto utiliza os seguintes pinos na Raspberry Pi Pico:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/SideSense.git
+   git clone https://github.com/gabsantosmr/SideSense.git
 2. Configure o ambiente de desenvolvimento para Raspberry Pi Pico.
 3. Compile e faça o upload do código para a placa.
 4. Conecte os botões e o display conforme os pinos definidos no código.
