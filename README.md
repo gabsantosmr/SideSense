@@ -50,6 +50,10 @@ O projeto utiliza os seguintes pinos na Raspberry Pi Pico:
 - CMakeLists.txt → Arquivo de configuração para compilação no Raspberry Pi Pico.
 
 
+## Licença  
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+
 ## Contribuições
 Sinta-se à vontade para abrir issues e enviar pull requests!
 
